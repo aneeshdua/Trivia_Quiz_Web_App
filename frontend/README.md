@@ -20,8 +20,6 @@ npm install
 
 >_tip_: **npm i** is shorthand for **npm install**
 
-## Required Tasks
-
 ## Running Your Frontend in Dev Mode
 
 The frontend app was built using create-react-app. In order to run the app in development mode use ```npm start```. You can change the script in the ```package.json``` file. 
